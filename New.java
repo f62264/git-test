@@ -3,4 +3,5 @@ public class New {
 
     int x1 = 10;
 
+    String newX = "Новая фича";
 }
