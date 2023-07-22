@@ -1,11 +1,6 @@
 public class New {
     int x = 10;
 
-    public void add() {
+    int x1 = 10;
 
-    }
-
-    public void fin() {
-
-    }
 }
