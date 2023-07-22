@@ -4,4 +4,8 @@ public class New {
     public void add() {
 
     }
+
+    public void fin() {
+
+    }
 }
