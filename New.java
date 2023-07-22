@@ -8,8 +8,4 @@ public class New {
     public void fin() {
 
     }
-
-    public void fin2() {
-
-    }
 }
